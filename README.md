@@ -1,10 +1,21 @@
 # Brain-Core.github.io
-Brain-Core organisation
+Brain-Core organisation Website made by **Github Pages**
+It's an illustration on how you can use the same structure to make for example a portfolio of yours without a server part or a hosting solution
 
 ## Built with
 
 - Html
 - Css
+
+## Reference
+
+- [Github Pages](https://pages.github.com/)
+
+- [Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+
+- [Custom domain name](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
+
+- [Guides](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages)
 
 ## Getting Started
 
