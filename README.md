@@ -2,6 +2,8 @@
 Brain-Core organisation Website made by **Github Pages**
 It's an illustration on how you can use the same structure to make for example a portfolio of yours without a server part or a hosting solution
 
+[Preview](https://brain-core.github.io/)
+
 ## Built with
 
 - Html
